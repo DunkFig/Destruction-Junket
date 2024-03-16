@@ -1,0 +1,72 @@
+div{
+    text-align: center;
+
+}
+
+*{
+    background-color: rgb(246, 248, 250);
+}
+
+h1{
+    font-family: "Jacquarda Bastarda 9", serif;
+    font-size: 90px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(1, 7, 27);
+    margin-bottom: 0px;
+}
+
+hr{
+    border-color:rgba(3, 75, 138, 0.141);
+}
+
+h3{
+    font-family: "Karla", sans-serif;
+    color: rgb(1, 7, 27);
+    font-optical-sizing: auto;
+    /* font-weight: 200; */
+    font-style: normal;
+}
+
+
+section{
+    color: rgb(1, 7, 27);
+    font-size: 18px;
+    line-height: 25px;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 50%;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+br{
+    display: block;
+    margin: 50px;
+}
+
+li{
+    list-style: circle
+}
+
+
+@media only screen and (max-width: 700px) {
+    section{
+        margin-left: 5%;
+        width:90%;
+    }
+
+    h1{
+        font-size: 60px;
+    }
+
+    iframe{
+        margin-left: 5%;
+        width: 80%;
+        height: 400px;
+    }
+}
