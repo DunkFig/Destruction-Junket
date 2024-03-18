@@ -53,6 +53,14 @@ li{
     list-style: circle
 }
 
+div.uE25ec{
+    background: none;
+}
+
+span.material-icons.L0Dvsd{
+    background: none;
+}
+
 
 @media only screen and (max-width: 700px) {
     section{
@@ -69,4 +77,25 @@ li{
         width: 90%;
         height: 400px;
     }
+
+    div.hur54b{
+        padding: 10px;
+        margin: 0px;
+    }
+
+    iframe.mmGMM{
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+    #yDmH0d{
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+ 
 }
